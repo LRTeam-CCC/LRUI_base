@@ -1,5 +1,3 @@
-# Makefile Reference
-# Please use this file as the project Makefile reference
 
 ##############################################################################
 # The value decides which base device should choose for patchall and upgrade.
